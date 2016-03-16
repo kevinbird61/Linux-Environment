@@ -20,18 +20,18 @@ hi Normal  ctermfg=252 ctermbg=none
 filetype off
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'VundleVim/Vundle.vim'
+" call vundle#begin()
+" Plugin 'VundleVim/Vundle.vim'
 
 " Vundle Plugin
-Plugin 'L9'
-Plugin 'othree/vim-autocomplpop'
-Plugin 'MarcWeber/vim-addon-mw-utils'
-Plugin 'tomtom/tlib_vim'
-Plugin 'garbas/vim-snipmate'
-Plugin 'honza/vim-snippets'
-Plugin 'jiangmiao/auto-pairs'
+" Plugin 'L9'
+" Plugin 'othree/vim-autocomplpop'
+" Plugin 'MarcWeber/vim-addon-mw-utils'
+" Plugin 'tomtom/tlib_vim'
+" Plugin 'garbas/vim-snipmate'
+" Plugin 'honza/vim-snippets'
+" Plugin 'jiangmiao/auto-pairs'
 
-call vundle#end()
+" call vundle#end()
 filetype plugin indent on
 
